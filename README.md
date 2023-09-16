@@ -10,6 +10,8 @@ from google_play_scraper import Sort, reviews_all
 mobile_apps_review = reviews_all('com.sainsburys.gol', sleep_milliseconds=0, lang='en', country='us', sort=Sort.NEWEST)
 ```
 
+![Alt text](Images/sainsbury-apps-images.jpeg)
+
 ## Package
 Please ensure that you have import important packages as follows:
 ```
